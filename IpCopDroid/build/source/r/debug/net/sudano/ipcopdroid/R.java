@@ -156,7 +156,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
         public static final int activityChooserViewStyle=0x7f01005f;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__attrs.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__attrs.xml 
          <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
@@ -785,27 +785,27 @@ containing a value of this type.
         public static final int windowSplitActionBar=0x7f01005d;
     }
     public static final class bool {
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__bools.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-w480dp/abs__bools.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__bools.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-w480dp/abs__bools.xml 
          */
         public static final int abs__action_bar_embed_tabs=0x7f040000;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-sw600dp/abs__bools.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-sw600dp/abs__bools.xml 
          */
         public static final int abs__action_bar_expanded_action_views_exclusive=0x7f040001;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__config.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__config.xml 
          */
         public static final int abs__config_actionMenuItemAllCaps=0x7f040002;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-w480dp/abs__config.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-w480dp/abs__config.xml 
          */
         public static final int abs__config_allowActionMenuItemTextWithIcon=0x7f040003;
         public static final int abs__config_showMenuShortcutsWhenKeyboardPresent=0x7f040004;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__bools.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-w480dp/abs__bools.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__bools.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-w480dp/abs__bools.xml 
          */
         public static final int abs__split_action_bar_is_narrow=0x7f040005;
     }
     public static final class color {
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__colors.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__colors.xml 
          */
         public static final int abs__background_holo_dark=0x7f050000;
         public static final int abs__background_holo_light=0x7f050001;
@@ -819,19 +819,19 @@ containing a value of this type.
         public static final int abs__primary_text_holo_light=0x7f050009;
     }
     public static final class dimen {
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/dimens.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/dimens.xml 
          */
         public static final int BehindWidth=0x7f070000;
         public static final int ShadowWidth=0x7f070001;
         public static final int SlidingOffSet=0x7f070002;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__dimens.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-land/abs__dimens.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-large-hdpi-1024x600/abs__dimens.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-large-mdpi-1024x600/abs__dimens.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-large-land-hdpi-1024x600/abs__dimens.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-large-land-mdpi-1024x600/abs__dimens.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-xlarge/abs__dimens.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-sw600dp/abs__dimens.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__dimens.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-land/abs__dimens.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-large-hdpi-1024x600/abs__dimens.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-large-mdpi-1024x600/abs__dimens.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-large-land-hdpi-1024x600/abs__dimens.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-large-land-mdpi-1024x600/abs__dimens.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-xlarge/abs__dimens.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-sw600dp/abs__dimens.xml 
          */
         public static final int abs__action_bar_default_height=0x7f070003;
         public static final int abs__action_bar_icon_vertical_padding=0x7f070004;
@@ -840,19 +840,19 @@ containing a value of this type.
         public static final int abs__action_bar_subtitle_top_margin=0x7f070007;
         public static final int abs__action_bar_title_text_size=0x7f070008;
         public static final int abs__action_button_min_width=0x7f070009;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__config.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__config.xml 
          */
         public static final int abs__config_prefDialogWidth=0x7f07000a;
         public static final int abs__dialog_min_width_major=0x7f070011;
         public static final int abs__dialog_min_width_minor=0x7f070012;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__dimens.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__dimens.xml 
          */
         public static final int abs__dropdownitem_icon_width=0x7f07000b;
         public static final int abs__dropdownitem_text_padding_left=0x7f07000c;
         public static final int abs__dropdownitem_text_padding_right=0x7f07000d;
         public static final int abs__search_view_preferred_width=0x7f07000e;
         public static final int abs__search_view_text_min_width=0x7f07000f;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/dimens.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/dimens.xml 
          */
         public static final int list_padding=0x7f070010;
     }
@@ -978,7 +978,7 @@ containing a value of this type.
         public static final int abs__action_bar_subtitle=0x7f060016;
         public static final int abs__action_bar_title=0x7f060015;
         public static final int abs__action_context_bar=0x7f060026;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__ids.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__ids.xml 
          */
         public static final int abs__action_menu_divider=0x7f06000e;
         public static final int abs__action_menu_presenter=0x7f06000f;
@@ -1035,7 +1035,7 @@ containing a value of this type.
         public static final int principal=0x7f060037;
         public static final int result=0x7f060042;
         public static final int right=0x7f06000b;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/ids.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/ids.xml 
          */
         public static final int selected_view=0x7f060014;
         public static final int showCustom=0x7f060007;
@@ -1050,13 +1050,13 @@ containing a value of this type.
         public static final int wrap_content=0x7f060009;
     }
     public static final class integer {
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__dimens.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-w360dp/abs__dimens.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-w500dp/abs__dimens.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-w600dp/abs__dimens.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__dimens.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-w360dp/abs__dimens.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-w500dp/abs__dimens.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-w600dp/abs__dimens.xml 
          */
         public static final int abs__max_action_buttons=0x7f080000;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/dimens.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/dimens.xml 
          */
         public static final int num_cols=0x7f080001;
     }
@@ -1089,7 +1089,7 @@ containing a value of this type.
         public static final int slidingmenumain=0x7f030019;
     }
     public static final class string {
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__strings.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__strings.xml 
          */
         public static final int abs__action_bar_home_description=0x7f090000;
         public static final int abs__action_bar_up_description=0x7f090001;
@@ -1104,16 +1104,16 @@ containing a value of this type.
         public static final int abs__searchview_description_voice=0x7f09000a;
         public static final int abs__shareactionprovider_share_with=0x7f09000b;
         public static final int abs__shareactionprovider_share_with_application=0x7f09000c;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/strings_activity_login.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-es/strings.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/strings_activity_login.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-es/strings.xml 
          */
         public static final int action_forgot_password=0x7f09000d;
         public static final int action_sign_in_register=0x7f09000e;
         public static final int action_sign_in_short=0x7f09000f;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/strings.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/strings.xml 
          */
         public static final int app_name=0x7f090010;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/strings_activity_login.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/strings_activity_login.xml 
          */
         public static final int error_field_required=0x7f090011;
         public static final int error_incorrect_password=0x7f090012;
@@ -1129,35 +1129,35 @@ containing a value of this type.
         public static final int prompt_user=0x7f09001c;
     }
     public static final class style {
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/styles.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/styles.xml 
 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v11/styles.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v11/styles.xml 
  API 11 theme customizations can go here. 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v14/styles.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v14/styles.xml 
  API 14 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f0a0000;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f0a0001;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-large/styles.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-large/styles.xml 
          */
         public static final int LoginFormContainer=0x7f0a0002;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__styles.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__styles.xml 
          */
         public static final int Sherlock___TextAppearance_Small=0x7f0a0003;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__themes.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v11/abs__themes.xml 
- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v14/abs__themes.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__themes.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v11/abs__themes.xml 
+ From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v14/abs__themes.xml 
          */
         public static final int Sherlock___Theme=0x7f0a0004;
         public static final int Sherlock___Theme_DarkActionBar=0x7f0a0005;
         public static final int Sherlock___Theme_Light=0x7f0a0006;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__styles.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__styles.xml 
          */
         public static final int Sherlock___Widget_ActionBar=0x7f0a0007;
         public static final int Sherlock___Widget_ActionMode=0x7f0a0008;
@@ -1171,7 +1171,7 @@ containing a value of this type.
         public static final int TextAppearance_Sherlock_Light_SearchResult_Subtitle=0x7f0a0010;
         public static final int TextAppearance_Sherlock_Light_SearchResult_Title=0x7f0a0011;
         public static final int TextAppearance_Sherlock_Light_Small=0x7f0a0012;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v14/abs__styles.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v14/abs__styles.xml 
          */
         public static final int TextAppearance_Sherlock_Light_Widget_PopupMenu_Large=0x7f0a0013;
         public static final int TextAppearance_Sherlock_Light_Widget_PopupMenu_Small=0x7f0a0014;
@@ -1194,19 +1194,19 @@ containing a value of this type.
         public static final int TextAppearance_Sherlock_Widget_PopupMenu_Large=0x7f0a0025;
         public static final int TextAppearance_Sherlock_Widget_PopupMenu_Small=0x7f0a0026;
         public static final int TextAppearance_Sherlock_Widget_TextView_SpinnerItem=0x7f0a0027;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__themes.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__themes.xml 
          */
         public static final int Theme_Sherlock=0x7f0a0028;
         public static final int Theme_Sherlock_Light=0x7f0a0029;
         public static final int Theme_Sherlock_Light_DarkActionBar=0x7f0a002a;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v14/abs__themes.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v14/abs__themes.xml 
          */
         public static final int Theme_Sherlock_Light_NoActionBar=0x7f0a002b;
         public static final int Theme_Sherlock_NoActionBar=0x7f0a002c;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__styles.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__styles.xml 
          */
         public static final int Widget=0x7f0a002d;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v14/abs__styles.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v14/abs__styles.xml 
          */
         public static final int Widget_Sherlock_ActionBar=0x7f0a002e;
         public static final int Widget_Sherlock_ActionBar_Solid=0x7f0a002f;
@@ -1256,7 +1256,7 @@ containing a value of this type.
         public static final int Widget_Sherlock_TextView_SpinnerItem=0x7f0a005b;
     }
     public static final class styleable {
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/abs__attrs.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__attrs.xml 
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />
@@ -3462,7 +3462,7 @@ containing a value of this type.
           @attr name android:android_focusable
         */
         public static final int SherlockView_android_focusable = 0;
-        /**  From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values/attrs.xml 
+        /**  From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/attrs.xml 
            <p>Includes the following attributes:</p>
            <table>
            <colgroup align="left" />

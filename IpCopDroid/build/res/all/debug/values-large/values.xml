@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-large/styles.xml -->
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-large/styles.xml -->
     <style name="LoginFormContainer">
         <item name="android:layout_width">400dp</item>
         <item name="android:layout_height">wrap_content</item>

@@ -3,4 +3,4 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/slidingmenumain"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent" /><!-- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/layout/slidingmenumain.xml -->
+    android:layout_height="fill_parent" /><!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/layout/slidingmenumain.xml -->

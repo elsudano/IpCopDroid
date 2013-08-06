@@ -16,4 +16,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/abs__ic_menu_moreoverflow_normal_holo_dark" />
 </selector>
-<!-- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml -->
+<!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml -->

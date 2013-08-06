@@ -38,4 +38,4 @@
               android:textAllCaps="true"
               android:text="@string/abs__action_mode_done" />
 </com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout>
-<!-- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/layout-large/abs__action_mode_close_item.xml -->
+<!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/layout-large/abs__action_mode_close_item.xml -->

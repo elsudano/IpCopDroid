@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-es/strings.xml -->
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-es/strings.xml -->
     <string name="action_forgot_password">Recuperar contraseña</string>
     <string name="action_sign_in_register">Validarse o Registrarse</string>
     <string name="action_sign_in_short">Validarse</string>

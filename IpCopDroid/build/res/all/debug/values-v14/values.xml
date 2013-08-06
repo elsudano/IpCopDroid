@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v14/styles.xml -->
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v14/styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
         <!-- API 14 theme customizations can go here. -->
     </style>
-    <!-- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v14/abs__themes.xml -->
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v14/abs__themes.xml -->
     <style name="Sherlock.__Theme" parent="android:Theme.Holo"></style>
 
     <style name="Sherlock.__Theme.DarkActionBar" parent="android:Theme.Holo.Light.DarkActionBar">
@@ -23,7 +23,7 @@
     </style>
 
     <style name="Sherlock.__Theme.Light" parent="android:Theme.Holo.Light"></style>
-    <!-- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v14/abs__styles.xml -->
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v14/abs__styles.xml -->
     <style name="TextAppearance.Sherlock.Light.Widget.PopupMenu.Large" parent="android:TextAppearance.Holo.Widget.PopupMenu.Large"></style>
 
     <style name="TextAppearance.Sherlock.Light.Widget.PopupMenu.Small" parent="android:TextAppearance.Holo.Widget.PopupMenu.Small"></style>
@@ -51,7 +51,7 @@
     <style name="TextAppearance.Sherlock.Widget.PopupMenu.Large" parent="android:TextAppearance.Holo.Widget.PopupMenu.Large"></style>
 
     <style name="TextAppearance.Sherlock.Widget.PopupMenu.Small" parent="android:TextAppearance.Holo.Widget.PopupMenu.Small"></style>
-    <!-- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v14/abs__themes.xml -->
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v14/abs__themes.xml -->
     <style name="Theme.Sherlock.Light.NoActionBar">
         <item name="android:windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
@@ -61,7 +61,7 @@
         <item name="android:windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
     </style>
-    <!-- From: file:/home/usuario/Dropbox/PROGRAMACION/IpCopDroid/IpCopDroid/res/values-v14/abs__styles.xml -->
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-v14/abs__styles.xml -->
     <style name="Widget.Sherlock.ActionBar" parent="android:Widget.Holo.ActionBar"></style>
 
     <style name="Widget.Sherlock.ActionBar.Solid" parent="android:Widget.Holo.ActionBar.Solid"></style>
