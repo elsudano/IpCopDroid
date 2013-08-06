@@ -1,0 +1,17 @@
+<resources>
+    <string name="action_forgot_password">Recuperar contraseña</string>
+    <string name="action_sign_in_register">Validarse o Registrarse</string>
+    <string name="action_sign_in_short">Validarse</string>
+    <string name="error_field_required">Campo Requerido</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_invalid_email">La dirección de email no es valida</string>
+    <string name="error_invalid_password">la contraseña es muy corta</string>
+    <string name="error_invalid_user">El usuario es muy corto</string>
+    <string name="error_invalid_port">Puerto Incorrecto</string>
+    <string name="login_progress_signing_in">Autentificandose&#8230;</string>
+    <string name="prompt_user">Usuario</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_ip_server">IP del Servidor</string>
+    <string name="prompt_port">Puerto</string>
+</resources>

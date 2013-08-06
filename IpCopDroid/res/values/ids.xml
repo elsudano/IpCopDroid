@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este fichero es para que se pueda utilizar el SlidingMenu no borrar -->
+<resources>
+    <item name="selected_view" type="id"/>
+    
+</resources>
