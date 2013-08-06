@@ -2,6 +2,7 @@
 <resources>
 
     <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-es/strings.xml -->
+    <string name="about">Sobre...</string>
     <string name="action_forgot_password">Recuperar contraseña</string>
     <string name="action_sign_in_register">Validarse o Registrarse</string>
     <string name="action_sign_in_short">Validarse</string>
@@ -17,5 +18,6 @@
     <string name="prompt_password">Contraseña</string>
     <string name="prompt_port">Puerto</string>
     <string name="prompt_user">Usuario</string>
+    <string name="user_add">Añadir Usuario</string>
 
 </resources>

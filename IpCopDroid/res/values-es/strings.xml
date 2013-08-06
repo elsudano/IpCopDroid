@@ -14,4 +14,6 @@
     <string name="prompt_password">Contraseña</string>
     <string name="prompt_ip_server">IP del Servidor</string>
     <string name="prompt_port">Puerto</string>
+    <string name="user_add">Añadir Usuario</string>
+    <string name="about">Sobre...</string>
 </resources>

@@ -45,30 +45,6 @@
             android:focusableInTouchMode="true">
 
             <EditText
-                style="@style/AppTheme"
-                android:id="@+id/user"
-                android:singleLine="true"
-                android:maxLines="1"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:hint="@string/prompt_user"
-                android:inputType="textPersonName"/>
-
-            <EditText
-                android:id="@+id/password"
-                android:singleLine="true"
-                android:maxLines="1"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:hint="@string/prompt_password"
-                android:inputType="textPassword"
-                android:imeActionLabel="@string/action_sign_in_short"
-                android:imeActionId="@+id/login"
-                android:imeOptions="actionUnspecified"
-                style="@style/AppTheme"
-                android:layout_gravity="left|center_vertical"/>
-
-            <EditText
                 android:id="@+id/email"
                 android:singleLine="true"
                 android:maxLines="1"
@@ -98,6 +74,31 @@
                     android:hint="@string/prompt_port"
                     android:numeric="integer"
                     android:inputType="number"/>
+
+            <EditText
+                style="@style/AppTheme"
+                android:id="@+id/user"
+                android:singleLine="true"
+                android:maxLines="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/prompt_user"
+                android:inputType="textPersonName"
+                android:layout_gravity="center"/>
+
+            <EditText
+                android:id="@+id/password"
+                android:singleLine="true"
+                android:maxLines="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/prompt_password"
+                android:inputType="textPassword"
+                android:imeActionLabel="@string/action_sign_in_short"
+                android:imeActionId="@+id/login"
+                android:imeOptions="actionUnspecified"
+                style="@style/AppTheme"
+                android:layout_gravity="center"/>
 
             <Button android:id="@+id/sign_in_button"
                 android:layout_width="wrap_content"

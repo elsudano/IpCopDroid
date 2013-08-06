@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IpCopDroid</string>
+    <string name="user_add">Add User</string>
+    <string name="about">About</string>
 </resources>
