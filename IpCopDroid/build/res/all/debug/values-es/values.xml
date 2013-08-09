@@ -2,6 +2,7 @@
 <resources>
 
     <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values-es/strings.xml -->
+    <string name="Settings">Ajustes de Aplicación</string>
     <string name="about">Sobre...</string>
     <string name="action_forgot_password">Recuperar contraseña</string>
     <string name="action_sign_in_register">Validarse o Registrarse</string>
@@ -13,11 +14,20 @@
     <string name="error_invalid_port">Puerto Incorrecto</string>
     <string name="error_invalid_user">El usuario es muy corto</string>
     <string name="login_progress_signing_in">Autentificandose…</string>
+    <string name="others">Otros</string>
+    <string name="others1">primero</string>
+    <string name="others2">segundo</string>
+    <string name="prefer1">ajuste 1</string>
+    <string name="prefer2">ajuste 2</string>
+    <string name="prefer3">ajuste 3</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_ip_server">IP del Servidor</string>
     <string name="prompt_password">Contraseña</string>
     <string name="prompt_port">Puerto</string>
     <string name="prompt_user">Usuario</string>
+    <string name="server1">Servidor Uno</string>
+    <string name="server2">Servidor dos</string>
+    <string name="servers">Servidores</string>
     <string name="user_add">Añadir Usuario</string>
 
 </resources>

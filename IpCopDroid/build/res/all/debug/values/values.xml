@@ -24,6 +24,12 @@
     <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</color>
     <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</color>
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/colors.xml -->
+    <color name="black">#000</color>
+    <color name="blue">#009</color>
+    <color name="green">#090</color>
+    <color name="red">#900</color>
+    <color name="white">#FFF</color>
     <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__attrs.xml -->
     <declare-styleable name="SherlockActionBar">
 
@@ -516,7 +522,9 @@
     <dimen name="abs__search_view_preferred_width">320dip</dimen>
     <dimen name="abs__search_view_text_min_width">160dip</dimen>
     <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/dimens.xml -->
-    <dimen name="list_padding">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margenes_lista">10dp</dimen>
     <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/abs__ids.xml -->
     <item name="abs__action_menu_divider" type="id"/>
     <item name="abs__action_menu_presenter" type="id"/>
@@ -559,13 +567,29 @@
     <string name="error_invalid_password">This password is too short</string>
     <string name="error_invalid_port">Invalid port</string>
     <string name="error_invalid_user">This user is too short</string>
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/strings.xml -->
+    <string name="initial_data">This is the server Ipcop1 and the time to power on is 12H</string>
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/strings_activity_login.xml -->
     <string name="login_progress_signing_in">Singing in…</string>
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/strings.xml -->
+    <string name="others">Others</string>
+    <string name="others1">other one</string>
+    <string name="others2">other two</string>
+    <string name="prefer1">Prefer one</string>
+    <string name="prefer2">Prefer two</string>
+    <string name="prefer3">Prefer three</string>
+    <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/strings_activity_login.xml -->
     <string name="prompt_email">Email</string>
     <string name="prompt_ip_server">Server IP</string>
     <string name="prompt_password">Password</string>
     <string name="prompt_port">Port Server</string>
     <string name="prompt_user">User</string>
     <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/strings.xml -->
+    <string name="server1">Server One</string>
+    <string name="server2">Server Two</string>
+    <string name="servers">Servers</string>
+    <string name="settings">Settings Apps</string>
+    <string name="title_new_activity">Changing Fragments</string>
     <string name="user_add">Add User</string>
     <!-- From: file:/home/usuario/Dropbox/Espacio_de_Trabajo_Eclipse_Comun/IpCopDroid/IpCopDroid/res/values/styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">

@@ -2,4 +2,16 @@
     <string name="app_name">IpCopDroid</string>
     <string name="user_add">Add User</string>
     <string name="about">About</string>
+    <string name="servers">Servers</string>
+    <string name="server1">Server One</string>
+    <string name="server2">Server Two</string>
+    <string name="others">Others</string>
+    <string name="others1">other one</string>
+    <string name="others2">other two</string>
+    <string name="settings">Settings Apps</string>
+    <string name="prefer1">Prefer one</string>
+    <string name="prefer2">Prefer two</string>
+    <string name="prefer3">Prefer three</string>
+    <string name="title_new_activity">Changing Fragments</string>
+    <string name="initial_data">This is the server Ipcop1 and the time to power on is 12H</string>
 </resources>

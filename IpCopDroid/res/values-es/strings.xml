@@ -16,4 +16,14 @@
     <string name="prompt_port">Puerto</string>
     <string name="user_add">Añadir Usuario</string>
     <string name="about">Sobre...</string>
+    <string name="servers">Servidores</string>
+    <string name="server1">Servidor Uno</string>
+    <string name="server2">Servidor dos</string>
+    <string name="others">Otros</string>
+    <string name="others1">primero</string>
+    <string name="others2">segundo</string>
+    <string name="Settings">Ajustes de Aplicación</string>
+    <string name="prefer1">ajuste 1</string>
+    <string name="prefer2">ajuste 2</string>
+    <string name="prefer3">ajuste 3</string>
 </resources>

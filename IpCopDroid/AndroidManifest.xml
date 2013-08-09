@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".gui.ActivityLogin"
+            android:name=".gui.BaseAppActividadInicial"
             android:label="@string/app_name"
             android:windowSoftInputMode="adjustResize|stateVisible" >
             <intent-filter>
@@ -22,6 +22,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".gui.ActivityLogin"/>
+        <activity android:name=".gui.SlidingFragmentActivityBaseApp"/>
     </application>
 
     <!-- Internet Permissions -->

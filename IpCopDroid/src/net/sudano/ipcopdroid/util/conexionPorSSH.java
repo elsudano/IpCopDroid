@@ -43,15 +43,15 @@ public class conexionPorSSH {
          *if (_servidor.isEmpty()){throw new JSchException("Falta la ip para la conexión");}
          *if (_puerto<=0){throw new JSchException("El puerto esta vacio");}else if (compruebaPuerto()){throw new JSchException("El puerto no es válido");}
         **/
-        _session = objetoJSCH.getSession(_usuario,_servidor, _puerto);
-        _session.setPassword(_pass);
+            _session = objetoJSCH.getSession(_usuario,_servidor, _puerto);
+            _session.setPassword(_pass);
 
-        Properties prop = new Properties();
-        prop.put("StrictHostKeyChecking", "no"); // Evitar pedir confirmación de clave
-        prop.put("PreferredAuthentications", "password,keyboard-interactive"); // Metodos preferidos de Autentificación
-        _session.setConfig(prop);
+            Properties prop = new Properties();
+            prop.put("StrictHostKeyChecking", "no"); // Evitar pedir confirmación de clave
+            prop.put("PreferredAuthentications", "password,keyboard-interactive"); // Metodos preferidos de Autentificación
+            _session.setConfig(prop);
 
-        _session.connect(connectTimeout);
+            _session.connect(connectTimeout);
     }
 
     public String ejecutar(String comando) throws JSchException, IOException{
@@ -117,7 +117,8 @@ public class conexionPorSSH {
 
     /**
      * @return Devuelve true si el puerto esta correcto y false si no lo esta
-     */
+     * Esta funcion esta anulada por que al poner en la Actividad principal
+     * la opcion de introducir puerto se comprueba en esa antividad
     private boolean compruebaPuerto() {
         boolean valor = false;
         int c = 0;
@@ -129,5 +130,5 @@ public class conexionPorSSH {
             c=c+1;
         }
         return valor;
-    }
+    }*/
 }
